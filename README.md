@@ -1,6 +1,8 @@
 # FoMRE-ASEE-2022
  
-Slides and contact info from the ASEE Workshop, *Curriculum and Course Design for Mechatronics and Robotics Engineering Education*
+Slides and contact info from the ASEE Workshop, *Curriculum and Course Design for Mechatronics and Robotics Engineering Education*.
+
+See the slide decks folder for presentations.
 
 # Contacts
 
