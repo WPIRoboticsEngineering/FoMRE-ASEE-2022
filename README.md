@@ -24,3 +24,7 @@ Capitalizing on the outcomes of these efforts and based on the feedback from wor
 * Develop a unified set of courses for MRE curricula
 * Prepare faculty to teach mechatronics and robotics courses through hands-on activities
 * Further expand the community of MRE educators 
+
+### Additional Resources
+
+For convenience, the materials from the Jaanuary NSF hands-on workshop, including videos, papers, libraries, code samples, and project description: https://github.com/WPIRoboticsEngineering/NSF-Intro-to-Robotics-Workshop
